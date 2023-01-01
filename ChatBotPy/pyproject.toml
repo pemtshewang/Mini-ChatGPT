@@ -2,7 +2,7 @@
 name = "chatbotpy"
 version = "0.1.0"
 description = ""
-authors = ["pemtshewang <pemtshewang500@gmail.com>"]
+authors = [""]
 readme = "README.md"
 
 [tool.poetry.dependencies]
